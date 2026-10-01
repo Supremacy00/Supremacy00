@@ -61,7 +61,7 @@ const musa = {
 ### 📦 Doos Logistics
 A **cross-border shipping platform** I built from the ground up: mobile app, website, and admin dashboard. Customers ship and track packages, ops teams run everything from one dashboard, and payments tie it together.
 
-`Expo` `React Native` `Next.js` `TypeScript` `Redux Toolkit` `React Query`
+`Next.js` `Expo` `React Native` `TypeScript` `Redux Toolkit` `React Query` `NativeWind`
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +69,7 @@ A **cross-border shipping platform** I built from the ground up: mobile app, web
 ### 🧺 XpressDrop
 A **laundry marketplace** connecting customers with laundromats. As **CTO**, I own the architecture, the customer and vendor apps, and the reusable UI system behind them.
 
-`Next.js` `Expo` `NativeWind` `Redux Toolkit`
+`Next.js` `Expo` `React Native` `TypeScript` `Redux Toolkit` `React Query` `NativeWind`
 
 </td>
 </tr>
