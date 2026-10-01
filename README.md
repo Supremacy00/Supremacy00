@@ -7,7 +7,7 @@
 📍 Abuja, Nigeria &nbsp;·&nbsp; 🌍 Building for the world
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-ts.vercel.app/)
-[![Resume](https://img.shields.io/badge/Download_Resume-16A34A?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Supremacy00/Supremacy00/blob/main/Musa_Abdulmuqaddas_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Download_Resume-16A34A?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Supremacy00/Supremacy00/raw/main/Musa_Abdulmuqaddas_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-abdulmuqaddas/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musaabdulmuqaddas356@gmail.com)
 
