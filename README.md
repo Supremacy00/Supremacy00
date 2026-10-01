@@ -163,21 +163,6 @@ A **laundry marketplace** connecting customers with laundromats. As **CTO**, I o
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Supremacy00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supremacy00&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=Supremacy00&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Supremacy00&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 💬 Open To
 
 - ✨ Senior / Lead frontend and mobile engineering roles
