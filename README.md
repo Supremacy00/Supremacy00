@@ -139,8 +139,11 @@ A **laundry marketplace** connecting customers with laundromats. As **CTO**, I o
 ## 🏆 Awards & Recognition
 
 🥇 **3rd Place**, Kaduna State Hackathon, KAD ICT Hub (2022)
+
 🥇 **Participant**, ABU HIA 2023, Ahmadu Bello University: gained insight into the latest technology trends and built a network in the tech community
+
 🎓 **B.Sc. Computer Science**, Ahmadu Bello University (2020–2024)
+
 🎓 **Diploma, Computer Science**, Ahmadu Bello University (2017–2019)
 
 ---
@@ -148,6 +151,7 @@ A **laundry marketplace** connecting customers with laundromats. As **CTO**, I o
 ## 👨‍💻 Community & Leadership
 
 🎤 **Team Lead & Finalist**, HNG Internship Program
+
 👑 **Chief Technology Officer**, XpressDrop: owning architecture, standards, and delivery across web and mobile
 
 ---
