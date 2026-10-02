@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-abdulmuqaddas/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musaabdulmuqaddas356@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Supremacy00&color=0ea5e9&style=flat-square&label=Profile+Views)
+![Profile Views](https://shieldcn.dev/views/user/Supremacy00.svg)
 ![Followers](https://img.shields.io/github/followers/Supremacy00?style=flat-square&color=7c3aed)
 
 </div>
