@@ -10,6 +10,7 @@
 [![Resume](https://img.shields.io/badge/Download_Resume-16A34A?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Supremacy00/Supremacy00/raw/main/Musa_Abdulmuqaddas_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-abdulmuqaddas/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musaabdulmuqaddas356@gmail.com)
+
 ![Profile Views](https://shieldcn.dev/views/user/Supremacy00.svg?variant=branded)
 ![Followers](https://img.shields.io/github/followers/Supremacy00?style=flat-square&color=7c3aed)
 
