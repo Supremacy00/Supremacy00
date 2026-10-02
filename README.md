@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ Hey, I'm Musa 👋
+## ⚡ Hey, I'm Abdulmuqaddas 👋
 
 I'm a **frontend engineer and startup CTO** with **6+ years** of experience turning messy real-world problems into fast, clean, production-ready products.
 
